@@ -14,5 +14,5 @@ Cette exposition est temporaire et intérieur. Cette exposition est disponible d
 Je suis allé à l'exposition le 29 janvier 2026.
 
 ## Nom de l'oeuvre
-Le nom de l'oeuvre que j'ai choisis est «Achetez-moi $VP».
+Le nom de l'oeuvre que j'ai choisis est «Sloppy».
 ![photo](photo/nom_oeuvre.jpg)
