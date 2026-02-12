@@ -6,6 +6,7 @@ Le nom de l'exposition est «Devenir partagé. Pratique de l'IA». Voici une aff
 
 ## Lieu de mise en exposition
 Cette exposition a été présenté à la galerie de l'Université de Montréal. L'adresse de ce batiment est le 2940 chemin de la Côte-Sainte-Catherine. Voici l'entrée de l'exposition:
+
 ![photo](photo/vue_ensemble_expo.jpg)
 
 ## Type d'exposition
@@ -16,6 +17,7 @@ Je suis allé à l'exposition le 29 janvier 2026.
 
 ## Nom de l'oeuvre
 Le nom de l'oeuvre que j'ai choisi est «SlopPsyopRealism (abonnez-vous $VP)». Voici une affiche qui décrit l'oeuvre dans son ensemble.
+
 ![photo](photo/affiche_achetez_svp.jpg)
 
 ## Nom de l'artiste et Année de réalisation
@@ -23,11 +25,14 @@ L'artiste est Francisco González Rosas et son oeuvre a été faite en 2025.
 
 ## Description de l'oeuvre
 L'oeuvre est séparée en deux parties. D'un côté il y a un petit kiosque où l'on peut acheter des souvenirs de l'oeuvre en question. De l'autre côté il y a un écran où il est diffusé une vidéo. C'est l'élément principal de l'oeuvre. La vidéo a été créée par l'intelligence artificielle. Elle a un côté très dérangeant comme les premières vidéos créées par l'IA. Les deux sections sont séparées par un mur où est accroché l'écran.
+
 ![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
+
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
 ## Type d'installation
 Cette oeuvre est contemplative. 
+
 ![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
@@ -36,19 +41,23 @@ La fonction du dispositif multimédia est la mise en contexte. En effet, on diff
 
 ## Mise en espace
 Voici un croquis qui montrent comment sont placée les éléments.
+
 ![photo](photo/croquis.jpg)
 
 ## Composante technique
 La composante technique principale est l'écran qui est accroché au mur.
+
 ![photo](photo/écran.jpg)
 
 
 ## Élément nécessaire
 Les poufs est un élément qui est important pour mieux profiter l'oeuvre.
+
 ![photo](photo/pouf.jpg)
 
 ## Expérience vécue
 Nous sommes arrivés à la galerie et on s'est fait accueillir par une guide. Elle nous a montré toutes les oeuvres et dispositifs présents. Ensuite, on a pu visité la galerie par nous-même.
+
 ![photo](photo/vue_entree_expo.jpg)
 
 
