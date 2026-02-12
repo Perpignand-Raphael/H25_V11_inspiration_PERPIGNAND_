@@ -32,3 +32,4 @@ Cette oevure est comtemplative.
 
 ## Fonction du dispositif multimédia
 
+## Mise en place
