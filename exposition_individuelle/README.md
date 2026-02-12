@@ -1,1 +1,1 @@
-C'est le dossier de la banque d'inspiration de l'exposition du programme TIM
+C'est le dossier de la banque d'inspiration de mon exposition individuelle.
