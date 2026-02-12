@@ -33,3 +33,21 @@ Cette oevure est comtemplative.
 ## Fonction du dispositif multimédia
 
 ## Mise en place
+![photo](photo/croquis.jpg)
+
+## Composante technique
+![photo](photo/écran.jpg)
+
+
+## Élément nécessaire
+![photo](photo/pouf.jpg)
+
+## Expérience vécue
+Nous sommes arrivés à la galerie et on s'est fait acceuillir par une guide. Elle nous a montré toutes les oeuvres et dispositifs présents. Ensuite, on a pus visité la galerie par soit même.
+
+
+## Ce que j'ai aimé
+J'aime aimé l'utilisation des poufs au lieu de chaises ou de bancs moins confortables. Même si on mets à l'écart le fait que ce soit plus confortable, j'aime cette idée parce que puisque les poufs étaient confortables, tu as moins tendances à vouloir partir. 
+
+## Ce que je n'ai pas aimé
+Je n'ai pas aimé le magasin incrusté dans l'oeuvre. Je trouve qu'il n'apporte rien à l'oeuvre en tant que telle.
