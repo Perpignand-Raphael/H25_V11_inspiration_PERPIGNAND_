@@ -18,4 +18,9 @@ Le nom de l'oeuvre que j'ai choisis est «SlopPsyopRealism (abonnez-vous $VP)».
 ![photo](photo/affiche_achetez_svp.jpg)
 
 ## Nom de l'artiste et Année de réalisation
+L'artiste est Francisco González Rosas et son oeuvre a été faites en 2025.
+
+## Description de l'oeuvre
+L'oeuvre est séparer en deux partis. D'un côté il y a un petit kiosque où l'on peut acheter des souvenirs de l'oeuvre en question. De l'autre côté il y a un écran où il est diffuser une vidéo. C'est l'élément principale de l'oeuvre. La vidéo a été créé par l'intelligence artificielle. Elle a un côté très dérangent comme les premières vidéos créés par l'IA. Les deux sections sont séparer par un mur où est acroché l'écran.
+!
 
