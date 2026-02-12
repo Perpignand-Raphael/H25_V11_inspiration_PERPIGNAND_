@@ -44,6 +44,7 @@ Cette oevure est comtemplative.
 
 ## Expérience vécue
 Nous sommes arrivés à la galerie et on s'est fait acceuillir par une guide. Elle nous a montré toutes les oeuvres et dispositifs présents. Ensuite, on a pus visité la galerie par soit même.
+![photo](photo/vue_entree_expo.jpg)
 
 
 ## Ce que j'ai aimé
