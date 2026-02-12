@@ -1,4 +1,5 @@
 # Fiche d'exposition pour l'exposition de l'Université de Montréal
+
 ## Nom de l'exposition
 Le nom de l'exposition est «Devenir partagé. Pratique de l'IA». Voici une affiche de l'exposition qui présente globalement l'exposition.
 
@@ -19,6 +20,7 @@ Je suis allé à l'exposition le 29 janvier 2026.
 Le nom de l'oeuvre que j'ai choisi est «SlopPsyopRealism (abonnez-vous $VP)». Voici une affiche qui décrit l'oeuvre dans son ensemble.
 
 ![photo](photo/affiche_achetez_svp.jpg)
+> Faite par moi
 
 ## Nom de l'artiste et Année de réalisation
 L'artiste est Francisco González Rosas et son oeuvre a été faite en 2025.
