@@ -31,6 +31,7 @@ Cette oevure est comtemplative.
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
 ## Fonction du dispositif multimédia
+La fonction du dispositif multimédia est la mise en contexte. En effet, on diffuse sur l'écran la vidéo que l'artiste Francisco González Rosas a faite.
 
 ## Mise en place
 ![photo](photo/croquis.jpg)
