@@ -33,14 +33,17 @@ Cette oeuvre est comtemplative.
 ## Fonction du dispositif multimédia
 La fonction du dispositif multimédia est la mise en contexte. En effet, on diffuse sur l'écran la vidéo que l'artiste Francisco González Rosas a faite.
 
-## Mise en place
+## Mise en espace
+Voici un croquis qui montrent comment sont placée les éléments
 ![photo](photo/croquis.jpg)
 
 ## Composante technique
+La composante technique principale est l'écran qui est accroché au mur.
 ![photo](photo/écran.jpg)
 
 
 ## Élément nécessaire
+Les poufs est un élément qui est important pour mieux profiter l'oeuvre
 ![photo](photo/pouf.jpg)
 
 ## Expérience vécue
