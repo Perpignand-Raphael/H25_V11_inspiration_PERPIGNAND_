@@ -1,6 +1,7 @@
 # Fiche d'exposition pour l'exposition de l'Université de Montréal
 ## Nom de l'exposition
 Le nom de l'exposition est «Devenir partagé. Pratique de l'IA». Voici une affiche de l'exposition qui présente globalement l'exposition.
+
 ![photo](photo/affiche_expo.jpg)
 
 ## Lieu de mise en exposition
