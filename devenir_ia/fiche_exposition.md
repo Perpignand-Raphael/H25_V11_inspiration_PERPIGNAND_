@@ -4,11 +4,11 @@ Le nom de l'exposition est «Devenir partagé. Pratique de l'IA». Voici une aff
 ![photo](photo/affiche_expo.jpg)
 
 ## Lieu de mise en exposition
-Cette exposition a été présenter à la galerie de l'Université de Montréal. L'adresse de ce batiment est le 2940 chemin de la Côte-Sainte-Catherine. Voici l'entrée de l'exposition.
+Cette exposition a été présenté à la galerie de l'Université de Montréal. L'adresse de ce batiment est le 2940 chemin de la Côte-Sainte-Catherine. Voici l'entrée de l'exposition:
 ![photo](photo/vue_ensemble_expo.jpg)
 
 ## Type d'exposition
-Cette exposition est temporaire et intérieur. Cette exposition est disponible du 28 novembre 2025 au 28 février. Comme je l'ai dis précédement l'exposition à l'intérieur de la galerie de l'Université de Montréal.
+Cette exposition est temporaire et intérieure. Cette exposition est disponible du 28 novembre 2025 au 28 février. Comme je l'ai dis précédemment l'exposition est à l'intérieur de la galerie de l'Université de Montréal.
 
 ## Date de visite
 Je suis allé à l'exposition le 29 janvier 2026.
@@ -18,15 +18,15 @@ Le nom de l'oeuvre que j'ai choisis est «SlopPsyopRealism (abonnez-vous $VP)».
 ![photo](photo/affiche_achetez_svp.jpg)
 
 ## Nom de l'artiste et Année de réalisation
-L'artiste est Francisco González Rosas et son oeuvre a été faites en 2025.
+L'artiste est Francisco González Rosas et son oeuvre a été faite en 2025.
 
 ## Description de l'oeuvre
-L'oeuvre est séparer en deux partis. D'un côté il y a un petit kiosque où l'on peut acheter des souvenirs de l'oeuvre en question. De l'autre côté il y a un écran où il est diffuser une vidéo. C'est l'élément principale de l'oeuvre. La vidéo a été créé par l'intelligence artificielle. Elle a un côté très dérangent comme les premières vidéos créés par l'IA. Les deux sections sont séparer par un mur où est acroché l'écran.
+L'oeuvre est séparée en deux parties. D'un côté il y a un petit kiosque où l'on peut acheter des souvenirs de l'oeuvre en question. De l'autre côté il y a un écran où il est diffuser une vidéo. C'est l'élément principal de l'oeuvre. La vidéo a été créée par l'intelligence artificielle. Elle a un côté très dérangeant comme les premières vidéos créés par l'IA. Les deux sections sont séparées par un mur où est accroché l'écran.
 ![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
 ## Type d'installation
-Cette oevure est comtemplative. 
+Cette oeuvre est comtemplative. 
 ![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
@@ -44,7 +44,7 @@ La fonction du dispositif multimédia est la mise en contexte. En effet, on diff
 ![photo](photo/pouf.jpg)
 
 ## Expérience vécue
-Nous sommes arrivés à la galerie et on s'est fait acceuillir par une guide. Elle nous a montré toutes les oeuvres et dispositifs présents. Ensuite, on a pus visité la galerie par soit même.
+Nous sommes arrivés à la galerie et on s'est fait acceuillir par une guide. Elle nous a montré toutes les oeuvres et dispositifs présents. Ensuite, on a pus visité la galerie par nous-même.
 ![photo](photo/vue_entree_expo.jpg)
 
 
