@@ -25,4 +25,10 @@ L'oeuvre est séparer en deux partis. D'un côté il y a un petit kiosque où l'
 ![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
 ![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
 
+## Type d'installation
+Cette oevure est comtemplative. 
+![photo](photo/vue_ensemble_achetez_svp_arriere.jpg)
+![photo](photo/vue_ensemble_achetez_svp_avant.jpg)
+
+## Fonction du dispositif multimédia
 
