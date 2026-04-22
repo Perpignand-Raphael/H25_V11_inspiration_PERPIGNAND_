@@ -1,9 +1,9 @@
-##Analyse composante
+## Analyse composante
 - Le menu à gauche
 - L'en-tête avec le titre, le sous-titre et les boutons.
 - La carte de la progression de l'aube.
 - Les cartes des quêtes.
-##Nomenclature
+## Nomenclature
 - .header
 - .header__title
 - .header__subtitle
@@ -30,9 +30,9 @@
 - .quest-card__title
 - .quest-card__text
 - .quest-card__xp__progress
-##Découpage
+## Découpage
 D'abord, je vais coder les différentes parties de la page web en respectant ma nomenclatue. En même temps, je vais noter mes difficultés sur le journal. Ensuite, je vais coder le CSS sans pensée au responsive. Le CSS sera mobile-first. Finalement, je vais rendre le code responsive.
-##Responsive
+## Responsive
 Le menu va passer de la gauche à en bas de la page. L'en-tête va passer de un titre, un sous-titre et deux bouttons à un icon, un titre, et un bouton. La carte de la progrssion va passer de horizontale à la verticale. Finalement, les carte des quêtes vont passer de l'horizontale à la verticale.
-##Zone libre
+## Zone libre
 Pour la zone libre, je vais faire quatres cartes plus petites qui vont être reparties sur deux lignes. Il y aura simplement un titre avec le nom de la catégorie et un texte qui dit la réponse.
